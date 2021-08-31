@@ -1,4 +1,9 @@
-.App {
-  font-family: sans-serif;
+h1,
+p {
+  font-family: Lato;
   text-align: center;
+}
+input {
+  margin: 0.5rem auto;
+  display: block;
 }
